@@ -117,7 +117,7 @@
             border: 2px solid var(--primary);
         }
         #main{
-            margin-left: 50vw;
+            margin-left: 30vw;
             width: 8vw;
         }
 
@@ -907,3 +907,4 @@
                 font-size: 1.3rem;
             }
         }
+
